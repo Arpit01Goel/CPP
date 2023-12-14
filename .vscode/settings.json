@@ -1,0 +1,7 @@
+{
+    "workbench.panel.defaultLocation": "bottom",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
